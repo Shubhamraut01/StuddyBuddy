@@ -6,6 +6,7 @@
 •	User can get different perspectives on the same point.<br><br>
 •	User can also join different rooms regarding one topic and also to keep oneself updated with the bleeding edge technology.<br><br>
 <br><br>
+<hr>
 Landing Page – The site opens up to an attractive landing page where user can see the app name and its short description. There are two options for user. One of which is registration for new account and the other one is login for existing users.<br><br>
 ![image](https://user-images.githubusercontent.com/98621723/176594486-83f65d5e-f73e-451c-b8d4-1254b7d2f491.png)
 
