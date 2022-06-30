@@ -1,5 +1,5 @@
 # StudyBuddy 📚
-<br><br><hr>
+<br>
 •	StudyBuddy is an online portal for learners, students and enthusiasts of technology where they can learn about new inventions, solve problems or simply discuss about a topic with their peers.<br><br>
 •	It enables users to post queries and discuss about any topic online without interacting physically.<br><br>
 •	User can ask any question and get response from the community worldwide.<br><br>
