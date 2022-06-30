@@ -1,11 +1,11 @@
-# StudyBuddy
-<pre>
-•	StudyBuddy is an online portal for learners, students and enthusiasts of technology where they can learn about new inventions, solve problems or simply discuss about a topic with their peers.
-•	It enables users to post queries and discuss about any topic online without interacting physically.
-•	User can ask any question and get response from the community worldwide.
-•	User can get different perspectives on the same point.
-•	User can also join different rooms regarding one topic and also to keep oneself updated with the bleeding edge technology.
-</pre><br>
+# StudyBuddy 📚
+
+•	StudyBuddy is an online portal for learners, students and enthusiasts of technology where they can learn about new inventions, solve problems or simply discuss about a topic with their peers.<br><br>
+•	It enables users to post queries and discuss about any topic online without interacting physically.<br><br>
+•	User can ask any question and get response from the community worldwide.<br><br>
+•	User can get different perspectives on the same point.<br><br>
+•	User can also join different rooms regarding one topic and also to keep oneself updated with the bleeding edge technology.<br><br>
+<br><br>
 Landing Page – The site opens up to an attractive landing page where user can see the app name and its short description. There are two options for user. One of which is registration for new account and the other one is login for existing users.<br>
 ![image](https://user-images.githubusercontent.com/98621723/176594486-83f65d5e-f73e-451c-b8d4-1254b7d2f491.png)
 
