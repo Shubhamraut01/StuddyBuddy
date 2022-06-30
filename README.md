@@ -8,6 +8,7 @@
 
 <hr>
 Landing Page – The site opens up to an attractive landing page where user can see the app name and its short description. There are two options for user. One of which is registration for new account and the other one is login for existing users.<br><br>
+
 ![image](https://user-images.githubusercontent.com/98621723/176596374-1e57646f-5240-4254-ab78-2419c20a97fc.png)
 
 Login/User Registration - Those who wish to create account in StudyBuddy have to register first. Only authenticated users can login in to the app.<br><br>
